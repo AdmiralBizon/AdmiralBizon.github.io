@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["V123.com.test.ru"],
+        "paths": ["/product/*"]
+      }
+    ]
+  }
+}
